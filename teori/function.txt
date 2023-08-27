@@ -1,0 +1,16 @@
+FUNCTION
+
+- sebuah sub program yang dapat "dipanggil" di bagian lain pada program
+- merupakan struktur dasar pembentuk javascript
+- disebut juga sebagai prosedur (sekumpulan statement untuk melakukan tugas atau menghitung sebuah nilai)
+- untuk dapat menggunakannya, kita harus "membuat" terlebih dahulu function tersebut lalu "memanggilnya"
+- termasuk ke dalam first-class object
+
+kenapa FUNCTION?
+- reusability (tidak mengulang penulisan code)
+- dekompposisi/abstraksi
+- modularitas
+
+kategori FUNCTION:
+- built-in function -> function dari javascript
+- user-defined function -> function yang kita buat sendiri
